@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1d061c83","path":"/docs/custom/","title":"首页","lang":"zh-CN","frontmatter":{"title":"首页","isOriginal":true,"description":"这是一个用于测试的md","shortTitle":"个性配置","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.08,"words":23},"filePathRelative":"docs/custom/readme.md","excerpt":"","copyright":{"author":"许你一世长安"}}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1db02246","path":"/docs/resource/","title":"Resource","lang":"zh-CN","frontmatter":{"title":"Resource","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":"","copyright":{"author":"许你一世长安"}}');export{e as data};

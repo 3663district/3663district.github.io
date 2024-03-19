@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-67fedd3c","path":"/docs/game/","title":"首页","lang":"zh-CN","frontmatter":{"title":"首页","isOriginal":true,"description":"这是一个用于测试的md","shortTitle":"游戏攻略","article":false},"headers":[],"git":{},"readingTime":{"minutes":0.08,"words":23},"filePathRelative":"docs/game/readme.md","excerpt":"","copyright":{"author":"许你一世长安"}}');export{e as data};
